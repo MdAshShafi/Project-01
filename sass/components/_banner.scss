@@ -1,3 +1,10 @@
 @import "../base/common";
 @import "../mixins/mixin";
 @import "../variables/variables";
+
+#banner{
+    padding-bottom: 25px;
+    img{
+        width: 100%;
+    }
+}

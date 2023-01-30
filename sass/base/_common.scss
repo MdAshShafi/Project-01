@@ -4,6 +4,7 @@
     outline: 0;
     box-sizing: border-box;
     transition: all linear 200ms;
+    text-align: center;
 }
 
 ul,
@@ -21,10 +22,14 @@ img {
 }
 
 .container {
-    max-width: 1170px;
+    max-width: 1800px;
     margin: 0 auto;
 }
 
 .clr {
     clear: both;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
 }
